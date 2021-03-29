@@ -381,6 +381,8 @@ width: 700px;
     border-radius: 5px;
     height: 300px;
     padding-bottom: 20px;
+    padding-top: 0px;
+    
 }
 .content-label{
     border-radius: 5px;
@@ -488,6 +490,25 @@ select{
 .footer-item-text{
     margin-left: 10px;
     
+}
+.orders-link{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.services-order-link{
+    padding: 10px 40px;
+    background-color: #00BAFC;
+    border-radius: 5px;
+    color: white;
+    margin-right: 15px;
+}
+.services-buy-link{
+    text-decoration:underline;
+    color: #00BAFC;
+    padding: 10px;
+    font-size: 18px;
+
 }
 @media(max-width:1160px){
     .container{
