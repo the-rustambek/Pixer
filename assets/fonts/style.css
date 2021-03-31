@@ -1557,6 +1557,19 @@ select {
     .header .container .header-part .header-info__text {
         width: 250px;
     }
+    .container .content-title{
+width: 250px;
+    }
+    .container .part-title{
+        width: 250px;
+    }
+    .content .container .content-info{
+        width:280px;
+    }
+    .container .wrapper-title{
+
+        width: 250px;
+    }
 }
 
 @media(max-width:250px) {
